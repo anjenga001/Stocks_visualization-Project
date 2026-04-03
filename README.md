@@ -3,6 +3,7 @@
 This project analyzes performance of software companies' stock performance from January 2021 to  December 2025. The dashboard proides the audience with insights into price trends, trading volume and volatility.
 
 ## Dashboard Preview
+![Dashboard](dashboard preview.png)
 
 ## Tech Stack
 - Python (Data extraction)
