@@ -5,7 +5,7 @@ This project analyzes performance of software companies' stock performance from 
 ## Dashboard Preview
 
 ## Tech Stack
-- Python (Data extraction and cleaning)
+- Python (Data extraction)
 - PostgreSQL (table creation, data storage)
 - Power BI (visualization, analysis)
 
